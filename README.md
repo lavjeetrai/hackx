@@ -6,6 +6,12 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-production%20ready-brightgreen)
 
+
+## 🔗 Live Demo
+**Access the platform here:** [https://taxsahyogbylavjeet.vercel.app/](https://taxsahyogbylavjeet.vercel.app/)
+
+---
+
 ##  Problem Statement
 
 **Challenge:** India faces significant tax compliance gaps where informal retail transactions remain largely untracked, resulting in lost tax revenue and limited transparency in the economy.
